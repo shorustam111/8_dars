@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .list {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+  }
+  
+  .item {
+    margin-right: 30px;
+    font-family: "Arial";
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  
+  .lets {
+    background-color: white;
+    color: rgb(32, 31, 31);
+    padding: 10px 30px;
+    border-radius: 5px;
+  }
+  
